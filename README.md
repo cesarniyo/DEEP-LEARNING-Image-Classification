@@ -5,31 +5,19 @@ sound as they vary with time.
 
 The project is organized into following parts:
 
-Introduction
-Importing Libaries
-Loading Images
-Create training data
-Preprocessing Training Data
-Data Normalization and Spriting
-Building the Model (MLP Model)
-Evaluating the MLP Model
-Building the Model (CNN Model)
-Evaluating the CNN Model
-Saving the built Model
-Loading and Predicting with the new Built Model
-Making Prediction on Testing Data
-Conclusion
-
-This project is organized into following parts:
-
     Introduction
-    Exploration data analysis
-    Data visualization
-    Data preparation
-    Building Machine Learning Model
-    Evaluating the Model
-    Prepare Test Data
-    Load and Test the model on Test Data
+    Importing Libaries
+    Loading Images
+    Create training data
+    Preprocessing Training Data
+    Data Normalization and Spriting
+    Building the Model (MLP Model)
+    Evaluating the MLP Model
+    Building the Model (CNN Model)
+    Evaluating the CNN Model
+    Saving the built Model
+    Loading and Predicting with the new Built Model
+    Making Prediction on Testing Data
     Conclusion
 
 
