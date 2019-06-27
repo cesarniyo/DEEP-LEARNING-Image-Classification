@@ -22,4 +22,4 @@ The project is organized into following parts:
 
 
 
-To view the code for the project check file named "DeepLearning.ipynb" under Regression folder
+To view the code for the project check file named "DeepLearning.ipynb" 
